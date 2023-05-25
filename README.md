@@ -1,7 +1,7 @@
-## Livro de Receitas :man_cook:
+# Livro de Receitas :man_cook:
 
 Olá! Estou aprendendo a usar este recurso tecnológico para encontrar um novo rumo profissional. Espero ser bem suscedido nesta empreitada. :happy:
-# Algoritmo de receita de Omelete:
+## Receita de Omelete:
 
 - Primeiro defina o recheio;
 - Em seguida, pegue 2 ovos; :egg:
